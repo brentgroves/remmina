@@ -1,5 +1,5 @@
 [remmina]
-password=.
+password=
 gateway_username=
 notes_text=
 vc=
@@ -78,7 +78,7 @@ execpath=
 resolution_height=0
 useproxyenv=0
 timeout=
-microphone=0
+microphone=
 freerdp_log_filters=
 gwtransp=http
 ssh_tunnel_privatekey=
